@@ -1,0 +1,4 @@
+In questa cartella troverete il materiale didattico per il corso di Angular.
+
+Buona lezione,
+Andrea Rizzieri
